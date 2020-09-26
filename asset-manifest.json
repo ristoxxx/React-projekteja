@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.js": "/git@github.com:ristoxxx/ristoxxx.github.io.git/static/js/main.4327a8e1.chunk.js",
-    "main.js.map": "/git@github.com:ristoxxx/ristoxxx.github.io.git/static/js/main.4327a8e1.chunk.js.map",
-    "runtime-main.js": "/git@github.com:ristoxxx/ristoxxx.github.io.git/static/js/runtime-main.6cdde51b.js",
-    "runtime-main.js.map": "/git@github.com:ristoxxx/ristoxxx.github.io.git/static/js/runtime-main.6cdde51b.js.map",
-    "static/js/2.1e571c22.chunk.js": "/git@github.com:ristoxxx/ristoxxx.github.io.git/static/js/2.1e571c22.chunk.js",
-    "static/js/2.1e571c22.chunk.js.map": "/git@github.com:ristoxxx/ristoxxx.github.io.git/static/js/2.1e571c22.chunk.js.map",
-    "index.html": "/git@github.com:ristoxxx/ristoxxx.github.io.git/index.html",
-    "precache-manifest.192c5c0e28868046b4e82816b088e735.js": "/git@github.com:ristoxxx/ristoxxx.github.io.git/precache-manifest.192c5c0e28868046b4e82816b088e735.js",
-    "service-worker.js": "/git@github.com:ristoxxx/ristoxxx.github.io.git/service-worker.js",
-    "static/js/2.1e571c22.chunk.js.LICENSE.txt": "/git@github.com:ristoxxx/ristoxxx.github.io.git/static/js/2.1e571c22.chunk.js.LICENSE.txt"
+    "main.js": "/ristoxxx/ristoxxx.github.io.git/static/js/main.4327a8e1.chunk.js",
+    "main.js.map": "/ristoxxx/ristoxxx.github.io.git/static/js/main.4327a8e1.chunk.js.map",
+    "runtime-main.js": "/ristoxxx/ristoxxx.github.io.git/static/js/runtime-main.23600049.js",
+    "runtime-main.js.map": "/ristoxxx/ristoxxx.github.io.git/static/js/runtime-main.23600049.js.map",
+    "static/js/2.1e571c22.chunk.js": "/ristoxxx/ristoxxx.github.io.git/static/js/2.1e571c22.chunk.js",
+    "static/js/2.1e571c22.chunk.js.map": "/ristoxxx/ristoxxx.github.io.git/static/js/2.1e571c22.chunk.js.map",
+    "index.html": "/ristoxxx/ristoxxx.github.io.git/index.html",
+    "precache-manifest.19dd71d4d2eed7d00e93dd94eea3104c.js": "/ristoxxx/ristoxxx.github.io.git/precache-manifest.19dd71d4d2eed7d00e93dd94eea3104c.js",
+    "service-worker.js": "/ristoxxx/ristoxxx.github.io.git/service-worker.js",
+    "static/js/2.1e571c22.chunk.js.LICENSE.txt": "/ristoxxx/ristoxxx.github.io.git/static/js/2.1e571c22.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.6cdde51b.js",
+    "static/js/runtime-main.23600049.js",
     "static/js/2.1e571c22.chunk.js",
     "static/js/main.4327a8e1.chunk.js"
   ]
