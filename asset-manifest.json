@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.js": "/laskin/static/js/main.4327a8e1.chunk.js",
-    "main.js.map": "/laskin/static/js/main.4327a8e1.chunk.js.map",
-    "runtime-main.js": "/laskin/static/js/runtime-main.b1fdcd6e.js",
-    "runtime-main.js.map": "/laskin/static/js/runtime-main.b1fdcd6e.js.map",
-    "static/js/2.1e571c22.chunk.js": "/laskin/static/js/2.1e571c22.chunk.js",
-    "static/js/2.1e571c22.chunk.js.map": "/laskin/static/js/2.1e571c22.chunk.js.map",
-    "index.html": "/laskin/index.html",
-    "precache-manifest.d1a09beaf97573ff67ee5e0e7a16ec79.js": "/laskin/precache-manifest.d1a09beaf97573ff67ee5e0e7a16ec79.js",
-    "service-worker.js": "/laskin/service-worker.js",
-    "static/js/2.1e571c22.chunk.js.LICENSE.txt": "/laskin/static/js/2.1e571c22.chunk.js.LICENSE.txt"
+    "main.js": "/ristoxxx/ristoxxx.github.io.git/static/js/main.4327a8e1.chunk.js",
+    "main.js.map": "/ristoxxx/ristoxxx.github.io.git/static/js/main.4327a8e1.chunk.js.map",
+    "runtime-main.js": "/ristoxxx/ristoxxx.github.io.git/static/js/runtime-main.23600049.js",
+    "runtime-main.js.map": "/ristoxxx/ristoxxx.github.io.git/static/js/runtime-main.23600049.js.map",
+    "static/js/2.1e571c22.chunk.js": "/ristoxxx/ristoxxx.github.io.git/static/js/2.1e571c22.chunk.js",
+    "static/js/2.1e571c22.chunk.js.map": "/ristoxxx/ristoxxx.github.io.git/static/js/2.1e571c22.chunk.js.map",
+    "index.html": "/ristoxxx/ristoxxx.github.io.git/index.html",
+    "precache-manifest.19dd71d4d2eed7d00e93dd94eea3104c.js": "/ristoxxx/ristoxxx.github.io.git/precache-manifest.19dd71d4d2eed7d00e93dd94eea3104c.js",
+    "service-worker.js": "/ristoxxx/ristoxxx.github.io.git/service-worker.js",
+    "static/js/2.1e571c22.chunk.js.LICENSE.txt": "/ristoxxx/ristoxxx.github.io.git/static/js/2.1e571c22.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.b1fdcd6e.js",
+    "static/js/runtime-main.23600049.js",
     "static/js/2.1e571c22.chunk.js",
     "static/js/main.4327a8e1.chunk.js"
   ]
