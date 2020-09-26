@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/laskin/static/js/main.4327a8e1.chunk.js",
+    "main.js.map": "/laskin/static/js/main.4327a8e1.chunk.js.map",
+    "runtime-main.js": "/laskin/static/js/runtime-main.b1fdcd6e.js",
+    "runtime-main.js.map": "/laskin/static/js/runtime-main.b1fdcd6e.js.map",
+    "static/js/2.1e571c22.chunk.js": "/laskin/static/js/2.1e571c22.chunk.js",
+    "static/js/2.1e571c22.chunk.js.map": "/laskin/static/js/2.1e571c22.chunk.js.map",
+    "index.html": "/laskin/index.html",
+    "precache-manifest.d1a09beaf97573ff67ee5e0e7a16ec79.js": "/laskin/precache-manifest.d1a09beaf97573ff67ee5e0e7a16ec79.js",
+    "service-worker.js": "/laskin/service-worker.js",
+    "static/js/2.1e571c22.chunk.js.LICENSE.txt": "/laskin/static/js/2.1e571c22.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b1fdcd6e.js",
+    "static/js/2.1e571c22.chunk.js",
+    "static/js/main.4327a8e1.chunk.js"
+  ]
+}
