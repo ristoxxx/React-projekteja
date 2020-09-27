@@ -10,6 +10,7 @@ const App = (props) => {
     setLaskettava(laskettava * 10 + 1)
   }
 
+
   const twoClick = () => {
     setLaskettava(laskettava * 10 + 2)
   }
@@ -18,29 +19,6 @@ const App = (props) => {
     setLaskettava(laskettava * 10 + 3)
   }
 
-  const fourClick = () => {
-    setLaskettava(laskettava * 10 + 4)
-  }
-
-  const fiveClick = () => {
-    setLaskettava(laskettava * 10 + 5)
-  }
-
-  const sixClick = () => {
-    setLaskettava(laskettava * 10 + 6)
-  }
-
-  const sevenClick = () => {
-    setLaskettava(laskettava * 10 + 7)
-  }
-
-  const eightClick = () => {
-    setLaskettava(laskettava * 10 + 8)
-  }
-
-  const nineClick = () => {
-    setLaskettava(laskettava * 10 + 9)
-  }
 
   const zeroClick = () => {
     setLaskettava(laskettava * 10 + 0)
@@ -61,20 +39,28 @@ const App = (props) => {
     setEkaluku(0)
   }
 
+  const click = (numero) => {
+    const handler = () => {
+      setLaskettava(laskettava * 10 + numero)
+    }
+    return handler
+  }
 
   return (
     <div>
       <div>
+        {ekaluku} <p />
+        
         {laskettava}
         
         <p />
-        <button onClick={sevenClick }>7</button>
-        <button onClick={eightClick }>8</button>
-        <button onClick={nineClick }>9</button>
+        <button onClick={click(7)}>7</button>
+        <button onClick={click(8)}>8</button>
+        <button onClick={click(9)}>9</button>
         <p />
-        <button onClick={fourClick }>4</button>
-        <button onClick={fiveClick }>5</button>
-        <button onClick={sixClick }>6</button>
+        <button onClick={() => setLaskettava(laskettava * 10 + 4)}>4</button>
+        <button onClick={() => setLaskettava(laskettava * 10 + 5)}>5</button>
+        <button onClick={() => setLaskettava(laskettava * 10 + 6)}>6</button>
         <p />
         <button onClick={oneClick }>1</button>
         <button onClick={twoClick }>2</button>
@@ -85,7 +71,7 @@ const App = (props) => {
         <button onClick={plusClick}>+</button>
         <p />
         <button onClick={tulosClick}>=</button>
-
+        
         <p />
       </div>
     </div>
